@@ -1,0 +1,2 @@
+# YelpScraper
+Scrapes Yelp businesses
